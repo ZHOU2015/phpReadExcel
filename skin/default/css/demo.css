@@ -1,0 +1,25 @@
+.button{
+    background: url('/skin/default/images/v_index9.jpg') no-repeat;
+    width: 7em;
+    height: 5em;
+    margin-left: 50%;
+    margin-top: -4em;
+    background-color: #CBE5FF;
+    border: none;
+}
+.middleDiv{
+    width: 100%;
+}
+.table{
+    border: 1px solid;
+    margin: auto;
+    border-collapse: collapse;
+}
+.table td{
+    border: 1px solid;
+    border-collapse: collapse;
+    width:30px;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}

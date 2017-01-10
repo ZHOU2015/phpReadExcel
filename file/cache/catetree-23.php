@@ -1,0 +1,1 @@
+<option value="238">生产厂家</option><option value="247">供应商</option><option value="248">代理商</option></select>

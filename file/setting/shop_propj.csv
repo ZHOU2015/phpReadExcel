@@ -1,0 +1,4 @@
+sp_id,,
+itemid,商品id,
+pjid,配件id,
+t,1:配件，2:商品,

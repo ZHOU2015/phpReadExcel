@@ -1,0 +1,1 @@
+document.write('<img src="http://u.wangzhanhr.com/file/upload/201608/10/173800721.jpg" width="532" height="240" alt=""/>');

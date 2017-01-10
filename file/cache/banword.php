@@ -1,0 +1,1 @@
+<?php defined('IN_DESTOON') or exit('Access Denied'); return array (0 => array (0 => '杀人放火',1 => '**',2 => '1',),1 => array (0 => '共产党',1 => '**',2 => '1',),); ?>

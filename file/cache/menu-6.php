@@ -1,0 +1,1 @@
+<?php defined('IN_DESTOON') or exit('Access Denied'); return array (0 => array ('title' => '产品管理','style' => '','url' => '?moduleid=5',),); ?>
